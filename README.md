@@ -7,7 +7,7 @@
 ## Instalação
 
 1. Instale o NodeJs
-1. Clone o repositório: `git clone https://github.com/pbozzi/consulta-processo`
+1. Clone o repositório: `git clone https://github.com/pbozzi/consulta-processo.git`
 1. Instale as dependências: `npm install`
 1. Crie o arquivo .env como cópia do arquivo .env.example.
 
