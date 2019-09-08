@@ -2,8 +2,6 @@
 
 ![Coyote](https://github.com/pbozzi/consulta-processo/blob/master/assets/coyote.gif)
 
-API para consulta de processos eletrônicos do Estado do ES. 
-
 > API que realiza a consulta de processos eletrônicos do Estado do ES através da página https://processoeletronico.es.gov.br.
 
 ## Instalação
@@ -28,17 +26,17 @@ HTTP Status Code
 JSON Processo encontrado
 ```json
 {
-    numero: "",
-    assunto: "",
-    situacao: "",
-    interessados: [""],
-    municipio: "",
-    resumo: "",
-    historicos: [{
-        data: "",
-        orgao: "",
-        local: "",
-        situacao: ""
+    "numero": "",
+    "assunto": "",
+    "situacao": "",
+    "interessados": [""],
+    "municipio": "",
+    "resumo": "",
+    "historicos": [{
+        "data": "",
+        "orgao": "",
+        "local": "",
+        "situacao": ""
     }],
 }
 ```
