@@ -1,0 +1,30 @@
+{
+  "name": "processo",
+  "version": "1.0.0",
+  "description": "API para consulta de processos eletrônicos do Estado do ES",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbozzi/consulta-processo.git"
+  },
+  "author": {
+    "name": "Pablo Bozzi",
+    "email": "pablobozzi@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbozzi/consulta-processo/issues"
+  },
+  "homepage": "https://github.com/pbozzi/consulta-processo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "puppeteer": "^1.19.0"
+  }
+}
