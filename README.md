@@ -1,6 +1,6 @@
 # Consulta Processo
 
-![Coyote](http://gph.is/2uH36zK)
+![Coyote](https://github.com/pbozzi/consulta-processo/blob/master/assets/coyote.gif)
 
 API para consulta de processos eletrônicos do Estado do ES. 
 
